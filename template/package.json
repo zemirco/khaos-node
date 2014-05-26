@@ -1,0 +1,21 @@
+{
+  "name": "{{basename}}",
+  "version": "0.0.1",
+  "description": "{{description}}",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Mirco Zeiss <mirco.zeiss@gmail.com> (http://mircozeiss.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zemirco/{{basename}}.git"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x",
+    "should": "3.x"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
