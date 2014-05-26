@@ -8,7 +8,7 @@
   "author": "Mirco Zeiss <mirco.zeiss@gmail.com> (http://mircozeiss.com/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zemirco/{{basename}}.git"
+    "url": "https://github.com/{{repository}}.git"
   },
   "main": "index.js",
   "dependencies": {},
